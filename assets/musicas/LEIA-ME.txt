@@ -1,0 +1,2 @@
+Coloque aqui as músicas de fundo (.mp3, .m4a, .aac, .wav).
+Tocam em sequência e em loop, em ordem alfabética.
